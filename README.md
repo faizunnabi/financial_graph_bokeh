@@ -1,2 +1,2 @@
-# financial_graph_bokeh
+# Financial Graph Bokeh
 Financial graph plotting using Bokeh module
