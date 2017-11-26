@@ -19,3 +19,4 @@ p.circle(date_time,close_list,legend="Close Price",size=6,color="red", alpha=0.5
 p.line(date_time,close_list,legend="Close Price",color="red", alpha=0.5)
 p.legend.location = "bottom_right"
 show(p)
+output_file('graph.html')
